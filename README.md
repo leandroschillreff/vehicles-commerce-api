@@ -21,7 +21,7 @@
 
 ## 1. Overview
 
-A simple api for the Motors Shop application, containing CRUD of users, announcements, comments and authentication.
+A simple api for the Motors Shop application, containing CRUD of users, announcements, comments and authentication
 
 - [NodeJS](https://nodejs.org/en/)
 - [TypeScript](https://www.typescriptlang.org/)
